@@ -1,5 +1,5 @@
 # Welcome to my GitHub! 
-I'm currently on a journey of learning HTML and CSS, and I'm excited to share my progress with you.
+I'm currently on a journey of learning HTML and CSS, and I'm excited to share my progress. 
 
 ##  About Me
 - 🌱 Hi there, I’m @jamiesgf or nid!
